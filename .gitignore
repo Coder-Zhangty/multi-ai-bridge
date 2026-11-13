@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+*.db
+*.db-*
+*.sqlite*
+*.key
+*.pem
+accounts.json
+profiles/
+browser_profiles/
+logs/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/

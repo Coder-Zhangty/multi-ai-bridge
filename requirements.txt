@@ -1,0 +1,9 @@
+playwright==1.55.0
+playwright-stealth>=1.0.6
+fastapi==0.136.0
+uvicorn[standard]==0.44.0
+python-dotenv==1.2.2
+pydantic==2.12.4
+pydantic-settings==2.11.0
+httpx==0.28.1
+cryptography==46.0.3
